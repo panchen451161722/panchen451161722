@@ -35,8 +35,7 @@ _I’m a software craftsman specialising in industrial automation, MES / L2 inte
 
 ## 📫 How to Reach Me  
 - ✉️ Email: <panchen0907@foxmail.com>  
-- 💼 LinkedIn: [<你的 LinkedIn 名称>](<链接>)  
-- 🌐 Blog: [<你的博客或个人网站>](<链接>)  
+ 
 
 ---
 
