@@ -28,8 +28,8 @@ _I’m a software craftsman specialising in industrial automation, MES / L2 inte
 ---
 
 ## 📊 GitHub Stats  
-![Your Name’s GitHub stats](https://github-readme-stats.vercel.app/api?username=<你的GitHub用户名>&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<你的GitHub用户名>&layout=compact&theme=tokyonight)
+![Your Name’s GitHub stats](https://github-readme-stats.vercel.app/api?username=<panchen451161722>&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<panchen451161722>&layout=compact&theme=tokyonight)
 
 ---
 
