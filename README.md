@@ -1,4 +1,4 @@
-# 👋 Hi, I’m <panchen>  
+# 👋 Hi, I’m PanChen
 _I’m a software craftsman specialising in industrial automation, MES / L2 integration, and C++ workflows._
 
 ---
